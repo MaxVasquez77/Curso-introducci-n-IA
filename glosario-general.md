@@ -23,4 +23,4 @@ Este archivo recopila, clase a clase, los términos técnicos nuevos introducido
 
 > Este glosario será actualizado con cada clase y servirá como herramienta de repaso para consolidar el vocabulario técnico del curso.
 
-19/04/2025
+19/04/2025 - Editado
