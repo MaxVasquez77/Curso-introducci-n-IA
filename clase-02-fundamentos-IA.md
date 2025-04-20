@@ -1,32 +1,65 @@
 # Clase 2 - Fundamentos de IA
 
 ## ¿Qué es la IA?
-Por el momento, la IA podemos definirla como un sistema sin tecnología especifica que agrupa tecnicas para simular funciones humanas, como reconocimiento de patrones, aprendizaje automatico, planificacion y toma de decisiones e interacción con humanos. A pesar de que el alcance es este en general, aun es limitado en lo que se puede "razonar", entrenar y/o enseñar a la IA.
+
+Actualmente, la Inteligencia Artificial (IA) puede definirse como un sistema que no depende de una tecnología específica, sino que agrupa un conjunto de técnicas orientadas a simular funciones humanas como el reconocimiento de patrones, aprendizaje automático, planificación, toma de decisiones e interacción con humanos.
+
+Aunque su alcance es amplio, todavía existen limitaciones importantes sobre lo que puede "razonar", entrenar y/o comprender la IA sin intervención humana.
+
+---
 
 ## Tipos de IA
--IA Débil, que basa su funcionamiento en tareas especificas y repetitivas, pero no tiene conciencia ni razonamiento general, por ejemplo chat GPT. Al decir que no razona, conlleva a exlicar que se basa netamente en predicciones generativas pero siguen siendo predicciones que son a su vez basadas en estadisticas avanzadas y en predicciones en las que se comparan millones de textos, ejemplos o conversaciones previas, de las cuales puede resolver el prompt que se envía.
 
-En resumen, aprende de ejemplos, no tiene conciencia ni razonamiento autonomo sino guiado y debe tener un contexto ya que es dependiente de el.
+**IA débil:** Se enfoca en tareas específicas y repetitivas, sin conciencia ni razonamiento general. Un ejemplo actual es ChatGPT. Al decir que no razona, se hace referencia a que su funcionamiento se basa en predicciones generativas fundamentadas en estadística avanzada y en millones de ejemplos previos, pero no construye un pensamiento autónomo.
 
--IA general, aunque aun no existe, esta si contaría con razonamiento autonomo, seria capaz de generar un contexto nuevo y puede aprender como un humano (generalizar) por ejemplo jarvis de iron man.
+En resumen: aprende por ejemplos, no tiene conciencia ni razonamiento propio, y depende completamente del contexto proporcionado.
 
--IA superinteligente, tampoco existe pero sí existiese debería superar la inteligencia humana en todos los aspectos por ejemplo la futura posible fusion entre la IA general y la computación cuantica.
+**IA general:** Aunque aún no existe, se proyecta como un tipo de inteligencia capaz de razonar de forma autónoma, generar nuevos contextos y aprender como lo hace un ser humano (generalización). Un ejemplo de ficción sería "Jarvis", el asistente inteligente de Iron Man.
 
-## Aplicaciones que conoces
-Realmente puede aplicarse a casi todo, pero las que mas me llaman la atencion es en la salud, transporte (sea maritimo terrestre o aereo) y atencion al cliente.
+**IA superinteligente:** Este tipo tampoco existe aún, pero si llegara a desarrollarse, superaría a la inteligencia humana en todos los aspectos: creatividad, razonamiento, análisis, toma de decisiones, etc. Podría surgir, por ejemplo, de una fusión futura entre computación cuántica e inteligencia artificial avanzada.
+
+---
+
+## Aplicaciones que conozco
+
+La IA puede aplicarse a casi todos los campos. Particularmente, me interesan sus aplicaciones en:
+
+- Salud
+- Transporte (terrestre, marítimo y aéreo)
+- Atención al cliente
+
+Estos sectores se beneficiarían ampliamente de la automatización inteligente y la toma de decisiones basada en datos.
+
+---
 
 ## ¿Cómo aplico la IA en mi proyecto?
-Tengo un proyecto entre manos sobre la deteccion de velocidad en ciudades, dando un reconocimiento de placas impulsado por IA directamente cuando compare que efectivamente si pasó la velocidad limite, esta programacion al razonar esto, enviará en automatico la alerta las oficinas de transito de la ciudad (con su respectiva grabacion) y asi que ellos determinen si es un comparendo o no los es
 
-## Riesgos detectados y cómo mitigarlos
-Existen riesgos de mal uso de ella como podria ser el señalamiento de algo "politicamente correcto o no" eso dependerá de su entrenamiento, asi mismo conocer sobre el fraude en situaciones hipoteticas, como lo podrian ser claves de productos en linea engañandola.
+Estoy desarrollando un proyecto de detección de velocidad en zonas urbanas. Consiste en un sistema que compara, mediante sensores y lógica de programación, si un vehículo ha superado el límite permitido. En caso afirmativo, se activa un sistema de reconocimiento de placas impulsado por IA, que genera una alerta automática con la grabación del hecho y la envía a las oficinas de tránsito correspondientes.
 
-Existen tambien riesgos del avance de la misma, algo asi como riesgos "colaterales" ya que la humanidad podria vovlerse dependiente de la resolucion de problemas que esta brinda y no entrenar su capacidad cerebral para hacerlo, adicionalmente y aunque suene muy "de pelicula" puede que la IA avance tanto que pueda generalizarnos como una raza que acaba con todo sea conocido o desconocido, es decir deberíamos inculcar como inamovibles ciertos principios eticos.
+Este sistema no solo busca disuadir infracciones, sino también optimizar la gestión de datos para las autoridades viales.
 
-Hay otros factores que tambien podrian verse como la falta de imparcialidad al momento de que su dueño o fundador quiera manipularla, como seria inmanipulable? podria ser la fuente de conocimiento absoluto o el reemplazo de google edge y toda la informacion que conocemos?
+---
 
-ALgunas cosas que podrian mitigar ciertos problemas, podria ser el incentivo al buen uso, haciendo pedagogia sobre la buena herramienta que es al utilizarlo con bueno prompts, un ejemplo de esto puede ser el presente curso, el cual a pesar que lo dicta chat GPT (Open IA) se dejaron claras las reglas inamovibles desde el principio para que fuera totalmente imparcial y no manipulable por mi como usuario en la certificación, pero si en la metodología de enseñanza para que fuera personalizable.
+## Riesgos generales de la IA y cómo mitigarlos
 
-Otro factor que podría mitigar el mal uso es auditar los modelos antes y despues que se lanzan al publico y de ahi en adelante hacerlo constantemente; como ya explique, debe tener unos valores eticos que a su vez sean imparciales para no discriminar o segregar idiomas o razas, debe tener transparencia en los datos ue presenta y a su medida de crecimiento ir adoptando estatutos y otros usos que eviten la pirateria del codigo para usar otra sin ningun tipo de estas restricciones.
+**Riesgos:**
+- Sesgos en los datos de entrenamiento (discriminación involuntaria)
+- Uso indebido de datos personales
+- Decisiones automáticas sin supervisión humana
+- Dependencia tecnológica excesiva
+- Generación de desinformación
+- Falta de transparencia en los modelos
+
+**Posibles mitigaciones:**
+- Auditoría continua de los modelos
+- Supervisión humana en tareas críticas
+- Transparencia en los datos utilizados para entrenamiento
+- Marcos éticos y regulatorios
+- Educación para el uso responsable de la IA
+
+---
+
+> Esta clase me permitió comprender los fundamentos teóricos de la IA, pero también conectarlos con aplicaciones prácticas y reales en mis propios proyectos. A medida que avance el curso, buscaré seguir integrando estos conocimientos de forma crítica y funcional.
+
 
 Fecha: 2025-04-19
