@@ -1,32 +1,22 @@
-# Clase 1 - Introducción al Curso de Inteligencia Artificial
+# Clase 1 - Introducción al Curso de IA
 
-## Objetivos del curso
+## Motivación Personal
 
-- Entender los fundamentos teóricos y prácticos de la IA.
-- Explorar herramientas aplicadas a desarrollo, creatividad y gestión de proyectos.
-- Diseñar y aplicar soluciones con IA que tengan un impacto real.
-- Crear una bitácora profesional como portafolio técnico y reflexivo.
+Este curso representa una oportunidad para fortalecer mis conocimientos en inteligencia artificial, desarrollo y creatividad aplicada. Busco desarrollar habilidades técnicas y estratégicas que pueda aplicar tanto en proyectos personales como profesionales. Más allá del conocimiento teórico, me interesa consolidar un enfoque práctico que me permita resolver problemas reales y adaptarme a los cambios tecnológicos de manera efectiva.
 
----
+## Expectativas del Curso
 
-## Metodología del curso
+- Adquirir fundamentos sólidos sobre inteligencia artificial.
+- Aprender a integrar IA en contextos reales como ciudades inteligentes, seguridad vial o automatización de procesos.
+- Mejorar mis habilidades en el uso de herramientas modernas como GitHub, VS Code y lenguajes de programación aplicados a IA.
+- Avanzar progresivamente desde lo más básico hasta lograr autonomía en el desarrollo de soluciones basadas en IA.
 
-- Clases personalizadas dictadas por ChatGPT (Open IA).
-- Estilo híbrido: teoría + práctica + reflexión.
-- Recursos: Markdown, imágenes, gráficas, videos (cuando se requiera).
-- Evaluación basada en participación, retos, proyectos y diseño de prompts.
-- Certificación al finalizar, con requisitos claros de aprobación inamovibles y totalmente imparciales.
+## Mi Punto de Partida
 
----
-
-## Expectativas personales
-
-- Convertirme en una persona capaz de unir creatividad, desarrollo y visión estratégica con IA.
-- Aprender a utilizar herramientas de IA de forma responsable, eficiente y profesional.
-- Aprovechar el curso para abrir puertas laborales o fortalecer mi perfil actual.
-
----
+Tengo conocimientos básicos en lógica y programación, y experiencia como analista funcional. Aunque no he trabajado directamente con modelos de IA, entiendo su aplicación práctica y deseo aprender desde cero cómo funcionan, cómo se entrenan, y cómo se integran a soluciones reales.
 
 ## Compromiso
 
 > Este curso será mi espacio de evolución, donde registraré no solo conocimiento técnico, sino también aprendizajes personales, retos y logros. Esta bitácora me acompañará durante todo el proceso y reflejará mi crecimiento real.
+>
+> Clase tomada el 18/04/2025, pero github editado el 10/04/2025
